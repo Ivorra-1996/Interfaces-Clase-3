@@ -1,0 +1,41 @@
+
+body{
+    background: white;
+}
+.imperio{background: red;}
+
+.rebeldes{background-color: blue;}
+
+.bordesoldados{
+    border: royalblue;
+}
+
+#tamano{
+    font-size:x-large;
+}
+
+#font-face{
+    font-style:italic;
+}
+
+#border{
+    border-color:blue;
+    border-style:dashed;
+    border-width: 0.2cm;
+}
+
+.separador{
+    letter-spacing:0.2cm;
+    font-size: x-large;
+}
+
+.centrar-lentra{
+    text-align: center;
+    font-size: x-large;
+    background-color: blue;
+}
+
+.mayuscula{
+    text-transform: uppercase;
+
+}
